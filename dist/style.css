@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#headUnit{
+    color:white;
+    background-color: blueviolet;
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+}
